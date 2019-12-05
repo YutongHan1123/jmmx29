@@ -28,7 +28,7 @@
 
   <body>
     <svg width=960 height=500>
-      <text class="title" x=40 y=50>d3.annotation()</text>
+      <text class="title" x="40" y="50">d3.annotation()</text>
       <text x=40 y=80>Basic examples without scales</text>
     </svg>
     <script src="https://d3js.org/d3.v4.js"></script>
@@ -38,17 +38,19 @@
         {
           note: {
             label: "Basic settings with subject position(x,y) and a note offset(dx, dy)",
-            title: "d3.annotationLabel"
+            title: "d3.annotationLabel",
+            wrap: 140,
+            align: "right"
           },
           x: 50,
           y: 150,
           dy: 137,
-          dx: 162
+          dx: 120
         }, {
           note: {
             label: "Added connector end 'arrow', note wrap '180', and note align 'left'",
             title: "d3.annotationLabel",
-            wrap: 150,
+            wrap: 180,
             align: "left"
           },
           connector: {
