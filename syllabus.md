@@ -44,14 +44,14 @@ Intermediate to advanced knowledge of HTML, CSS and JavaScript is strongly recom
 
 ### Books & Readings
 
-Some readings may come from online sources; I’ll share those via emails and @@make a place for online articles@@
+Some readings may come from online sources; I’ll share those via emails and on [here](readings.md):
 
 * [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3) by Amelia Wattenberger
 * [Interactive Data Visualization For the Web](https://www.amazon.com/dp/1491921285), Scott Murray: *We will be working with D3v5 in the class, but Scott does a great job of walking you through the D3 environment for D3v4 and the changes between D3v4 and D3v5 are minor.*
 * [The Wall Street Journal Guide to Information Graphics: The Dos and Don’ts of Presenting Data, Facts, and Figures](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281/), Dona M. Wong
 * [D3.js in Action: Data Visualization with JavaScript, 2nd Edition](https://www.amazon.com/D3-js-Action-Data-visualization-JavaScript/dp/1617294489), Elijah Meeks
 * [Eloquent JavaScript, 3rd Edition](https://eloquentjavascript.net/), Marijin Haverbeke
-* [The Functional Art](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739), [The Truthful Art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/ref=pd_sbs_14_t_1/132-1419355-3821116?_encoding=UTF8&pd_rd_i=0321934075&pd_rd_r=f5e386ab-86d6-4cb7-9f81-6a2b25ae46b6&pd_rd_w=ypbqu&pd_rd_wg=DYhEm&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=39DRVMGPTNCGMEGFKJDJ&psc=1&refRID=39DRVMGPTNCGMEGFKJDJ), [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/ref=pd_sbs_14_t_0/132-1419355-3821116?_encoding=UTF8&pd_rd_i=1324001569&pd_rd_r=f5e386ab-86d6-4cb7-9f81-6a2b25ae46b6&pd_rd_w=ypbqu&pd_rd_wg=DYhEm&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=39DRVMGPTNCGMEGFKJDJ&psc=1&refRID=39DRVMGPTNCGMEGFKJDJ), by Alberto Cairo
+* [The Functional Art](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739), [The Truthful Art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/), [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/), by Alberto Cairo
 
 ### Software
 
