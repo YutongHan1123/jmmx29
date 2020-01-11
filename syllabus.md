@@ -97,11 +97,11 @@ I reserve the right to adjust the final grade according to class participation, 
 
 | Points | Grade |
 |:---:|:---:|
-| >90 | A |
+|  > 90 | A |
 | 80–89 | B |
 | 70–79 | C |
 | 60–69 | D |
-| ≤ 59 | F |
+|  ≤ 59 | F |
 
 ## Course Calendar
 
