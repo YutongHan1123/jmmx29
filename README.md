@@ -7,4 +7,5 @@ Monday, Room 2057
 ## Resources
 
 1. [Syllabus](syllabus.md)
-1. [Course Calendar](calendar.md)
+1. [Course Calendar](syllabus.md#course-calendar)
+
