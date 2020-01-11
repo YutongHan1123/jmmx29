@@ -90,7 +90,7 @@ You will pitch and build an interactive story of your choosing. We will have var
 
 ## Grade Scale
 
-**I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.**
+I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.
 
 | Points | Grade |
 |:---:|:---:|
