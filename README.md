@@ -1,3 +1,10 @@
-# Advanced Infographics, 2019
+# Advanced Infographics and Data Visualization, Spring 2020
 
-This README file will be updated closer to January when I finish preparations for the spring 2020 version of the Advanced Infographics course.
+Monday, Room 2057
+
+5:05–7:50PM
+
+## Resources
+
+1. [Syllabus](syllabus.md)
+1. [Course Calendar](calendar.md)
