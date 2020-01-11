@@ -27,7 +27,7 @@ Office Hours: By appointment via [Calendly](https://calendly.com/lennymartinezd/
 
 This course is a seminar designed to introduce interactive data visualization concepts in a web environment. Students will be introduced to code libraries which assist in this task, best practices for interactivity and data visualization. The course will also briefly cover working with data (i.e., how to find sources, cleaning and preparing data for visualizations, etc.).
 
-## Class Objectives
+## Course Objectives
 
 * Learn to use D3.js to make static and interactive visualizations
 * Contribute to an open-source project
