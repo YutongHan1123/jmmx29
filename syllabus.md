@@ -27,7 +27,7 @@ Office Hours: By appointment via [Calendly](https://calendly.com/lennymartinezd/
 
 This course is a seminar designed to introduce interactive data visualization concepts in a web environment. Students will be introduced to code libraries which assist in this task, best practices for interactivity and data visualization. The course will also briefly cover working with data (i.e., how to find sources, cleaning and preparing data for visualizations, etc.).
 
-## Class Outcomes
+## Class Objectives
 
 * Learn to use D3.js to make static and interactive visualizations
 * Contribute to an open-source project
@@ -38,20 +38,23 @@ This course is a seminar designed to introduce interactive data visualization co
 
 ## Prerequisites
 
-Intermediate to advanced knowledge of HTML, CSS and JavaScript is strongly recommended.
+Comfort with building a web page using HTML, CSS, and JavaScript is strongly recommended.
 
 ## Materials
 
-### Books & Readings
-
-Some readings may come from online sources; I’ll share those via emails and on [here](readings.md):
+### Recommended Books
 
 * [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3) by Amelia Wattenberger
 * [Interactive Data Visualization For the Web](https://www.amazon.com/dp/1491921285), Scott Murray: *We will be working with D3v5 in the class, but Scott does a great job of walking you through the D3 environment for D3v4 and the changes between D3v4 and D3v5 are minor.*
-* [The Wall Street Journal Guide to Information Graphics: The Dos and Don’ts of Presenting Data, Facts, and Figures](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281/), Dona M. Wong
-* [D3.js in Action: Data Visualization with JavaScript, 2nd Edition](https://www.amazon.com/D3-js-Action-Data-visualization-JavaScript/dp/1617294489), Elijah Meeks
+
+### Optional Books
+
+Books you may find useful as you work through the class:
+
+* [The Wall Street Journal Guide to Information Graphics: The Dos and Don’ts of Presenting Data, Facts, and Figures](https://www.amazon.com/dp/0393347281/), Dona M. Wong
+* [D3.js in Action: Data Visualization with JavaScript, 2nd Edition](https://www.amazon.com/dp/1617294489), Elijah Meeks
 * [Eloquent JavaScript, 3rd Edition](https://eloquentjavascript.net/), Marijin Haverbeke
-* [The Functional Art](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739), [The Truthful Art](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/), [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/), by Alberto Cairo
+* [The Functional Art](https://www.amazon.com/dp/0321834739), [The Truthful Art](https://www.amazon.com/dp/0321934075/), [How Charts Lie](https://www.amazon.com/dp/1324001569/), by Alberto Cairo
 
 ### Software
 
@@ -62,7 +65,7 @@ We will go over installing and setting up all of the following:
 * Github.com
 * Github Desktop, Source Tree
 * Visual Studio Code
-* Adobe Suite: It is free for students, check @@link to adobe suite@@  to set it up.
+* Adobe Suite: It is free for students, check [this](https://www.it.miami.edu/a-z-listing/adobe-creative-cloud/index.html) to set it up.
 
 ## Coursework
 
@@ -94,17 +97,10 @@ I reserve the right to adjust the final grade according to class participation, 
 
 | Points | Grade |
 |:---:|:---:|
-| 97–100 | A |
-| 93–96 | A- |
-| 89–92 | B+ |
-| 85–88 | B |
-| 80–84 | B- |
-| 77–79 | C+ |
-| 73–76 | C |
-| 70–72 | C- |
-| 68–69 | D+ |
-| 63–67 | D |
-| 60–62 | D- |
+| >90 | A |
+| 80–89 | B |
+| 70–79 | C |
+| 60–69 | D |
 | ≤ 59 | F |
 
 ## Course Calendar
