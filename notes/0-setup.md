@@ -99,4 +99,4 @@ brew install node npm
 
 ## Visual Studio Code Extensions
 
-While there are many text editors and 
+These are some of the extensions and things I've done to make work easier for myself.
