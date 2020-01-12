@@ -58,6 +58,8 @@ brew install git
 
 Once installed, you should configure Git for your machine. The folks over at Gitlab ([Gitlab](https://about.gitlab.com/) is an alternative to Github.) have a short section that explains how to do this really nicely: [Add your Git username and set your email](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#add-your-git-username-and-set-your-email).
 
+TODO add how to setup ssh keys.
+
 ### iTerm2
 
 An alternative to the `Terminal.app` that offers some extra functionality.
@@ -100,3 +102,6 @@ brew install node npm
 ## Visual Studio Code Extensions
 
 These are some of the extensions and things I've done to make work easier for myself.
+
+TODO add extensions I use
+TODO add explanation of how to set up eslint and prettier to make code correct.
