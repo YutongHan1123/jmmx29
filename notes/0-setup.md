@@ -12,8 +12,8 @@ The default command line app on mac is `Terminal.app`. You can find it in the Ap
 
 To install, copy and paste the following line into your preferred Terminal app.
 
-```bash
-xcode-select —install
+```html
+xcode-select --install
 ```
 
 ## Github
