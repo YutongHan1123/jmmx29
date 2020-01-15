@@ -45,7 +45,9 @@ Comfort with building a web page using HTML, CSS, and JavaScript is strongly rec
 ### Recommended Books
 
 * [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3) by Amelia Wattenberger
-* [Interactive Data Visualization For the Web](https://www.amazon.com/dp/1491921285), Scott Murray: *We will be working with D3v5 in the class, but Scott does a great job of walking you through the D3 environment for D3v4 and the changes between D3v4 and D3v5 are minor.*
+* [Interactive Data Visualization For the Web](https://www.amazon.com/dp/1491921285), Scott Murray
+
+  **Note:** We will be working with D3v5 in the class, but Scott does a great job of walking you through the D3 environment for D3v4 and the changes between D3v4 and D3v5 are minor.
 
 ### Optional Books
 
@@ -63,27 +65,31 @@ We will go over installing and setting up all of the following:
 * Google Chrome
 * Firefox
 * Github.com
-* Github Desktop, Source Tree
+* Github Desktop, Sourcetree
 * Visual Studio Code
-* Adobe Suite: It is free for students, check [this](https://www.it.miami.edu/a-z-listing/adobe-creative-cloud/index.html) to set it up.
+* Adobe Suite: It is free for students, check [this page](https://www.it.miami.edu/a-z-listing/adobe-creative-cloud/index.html) to set it up.
+
+### Lectures
+
+All lectures will be uploaded to [this playlist](https://www.youtube.com/playlist?list=PLV6wDU1l7y6aKGtPoclLU0YzxDV7OZpLB) within 48 hours of class.
 
 ## Coursework
 
 ### Participation: 20%
 
-Attendance is mandatory. An unexcused absence translates into a zero for that day’s participation; *the two lowest participation grades will be dropped before calculating the final grade.* Students will be expected to participate in discussion every class, and classes will build on one another — you are responsible for the material, even if you must miss class.
+Attendance is mandatory. An unexcused absence translates into a zero for that day’s participation; **the two lowest participation grades will be dropped before calculating the final grade.** Students will be expected to participate in discussion every class, and classes will build on one another — you are responsible for the material, even if you must miss class.
 
 ### Blog: 5%
 
-TODO Expand on this@@
+In earlier classes you've blogged about your experiences learning about and working on visualizations and visual storytelling. For this class, you should continue blogging. As I talked about it during the first class, these posts don't necessarily have to be long. They can be reflections on something you noticed in the news, or a reminder of how to do something with code so you don't have to Google it every couple of days. By the end of the semester, you should have at least 7 to 8 blog posts.
 
 ### Story Teardown: 5%
 
-You will make a 15-minute presentation to the class on an example of data reporting they particularly admire. Part of this assignment requires interviewing the journalists who produced the work.
+You will make a 15-minute presentation to the class on an example of data reporting they particularly admire. If possible you should try to interview the journalists who produced the work.
 
 ### Weekly Exercises: 30%
 
-As we work in the class, you’ll be recreating your own version of different chart types for practice. These exercises will be collected in a single web project for showcase.
+As we work in the class, you’ll be recreating your own version of different chart types for practice. These exercises will be collected in a single web project for showcase and will be graded at the end of the semester.
 
 ### Semester Project: 40%
 
@@ -110,7 +116,8 @@ I reserve the right to adjust the final grade according to class participation, 
 * Syllabus & Class Introduction
 * Setting up Environments
 * HTML Primer
-* **Assigned**: HTML Resume
+* **Assigned**: [HTML Resume](assignments/0-html.md)
+* **Assigned**: [Story Pitches](assignments/1-pitch.md)
 
 ### Week 2 — January 20
 
