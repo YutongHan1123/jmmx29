@@ -19,9 +19,9 @@ Phone: 786-340-1938
 Office:
 
 * Communications International Building, 1053-D
-* TODO Find engineering room@@
+* McArthur Engineering Building, 502
 
-Office Hours: By appointment via [Calendly](https://calendly.com/lennymartinezd/meeting). I'm also available through Skype or Google Hangouts as needed.
+Office Hours: By appointment via [Calendly](https://calendly.com/lennymartinezd/meeting). I'm also available through Skype or Google Hangouts as needed in the afternoons and the weekends.
 
 ## Course Description
 
