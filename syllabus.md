@@ -163,6 +163,10 @@ I reserve the right to adjust the final grade according to class participation, 
 
 * Scrollytelling
 
+### Week 12 — March 30
+
+* TBD
+
 ### Week 12 — April 06
 
 * Project iteration due
