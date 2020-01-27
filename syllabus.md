@@ -125,16 +125,17 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 3 — January 27
 
-* Review HTML & CSS
-* JS Primer
+* Review HTML
+* CSS Primer
 
 ### Week 4 — February 03
 
 * Story Pitches
-* D3 Primer
+* Setting up Github & Git
 
 ### Week 5 — February 10
 
+* JS Primer
 * D3 Charts 1
 
 ### Week 6 — February 17
