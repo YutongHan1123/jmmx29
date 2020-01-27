@@ -167,18 +167,18 @@ I reserve the right to adjust the final grade according to class participation, 
 
 * TBD
 
-### Week 12 — April 06
+### Week 13 — April 06
 
 * Project iteration due
 
-### Week 13 — April 13
+### Week 14 — April 13
 
 * TBD
 
-### Week 14 — April 20
+### Week 15 — April 20
 
 * Final class
 
-### Week 15 — FINALS WEEK
+### Week 16 — FINALS WEEK
 
 * Group Review Session; Project due 24 hours
