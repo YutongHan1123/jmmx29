@@ -165,7 +165,7 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 12 — March 30
 
-* TBD
+* Event: [Steve Franconeri](http://visualthinking.psych.northwestern.edu/) talk. 
 
 ### Week 13 — April 06
 
