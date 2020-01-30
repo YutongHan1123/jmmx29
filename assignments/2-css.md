@@ -2,9 +2,9 @@
 
 Take the resume you made in [your previous assignment](0-html.md) and add CSS to it. Link a `style.css` file and style your resume. There are no formal requirements in terms of how many things you need to style, but the goal is for you to have a resume that stylistically matches you.
 
-Before you start styling things though, be sure to [validate your HTML](https://validator.w3.org/). You can upload your file or copy+paste the code directly and it will let you know of potential errors and warnings that may be in your code.
+Before you start styling things though, be sure to [validate your HTML](https://validator.w3.org/). You can upload your file or copy+paste the code directly and it will let you know of potential errors and warnings that may be in your code. You might also be interested in [validating your CSS](https://jigsaw.w3.org/css-validator/).
 
-Feel free to bring in a font or two (but please no more than 3) from [Google Fonts](https://fonts.google.com), change the background color of things on the page, change the width of things, center parts of your resume, etc.
+Feel free to bring in a font or two (but please no more than 3) from [Google Fonts](https://fonts.google.com), change the background color of things on the page, change the width of things, center parts of your resume, etc. 
 
 Some relevant resources:
 

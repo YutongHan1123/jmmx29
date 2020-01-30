@@ -138,20 +138,20 @@ I reserve the right to adjust the final grade according to class participation, 
 
 * Story Pitches
 * JS Primer
-* D3 Charts 1
 
 ### Week 6 — February 17
+
+* D3 Charts 1
+
+### Week 7 — February 24
 
 * D3 Charts 2
 * Project Update
 
-### Week 7 — February 24
-
-* D3 Charts 3
-
 ### Week 8 — March 02
 
-* Project Check point
+* D3 Charts 3
+* Scrollytelling
 
 ### Week 9 — March 09
 
@@ -159,12 +159,12 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 10 — March 16
 
-* Project Code Setup: Jekyll
-* Project Code Setup: React
+* Iteration 0 due
+* Using Jekyll for a web project
 
 ### Week 11 — March 23
 
-* Scrollytelling
+* TBD
 
 ### Week 12 — March 30
 
@@ -172,7 +172,7 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 13 — April 06
 
-* Project iteration due
+* Iteration 1 due
 
 ### Week 14 — April 13
 
@@ -180,7 +180,8 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 15 — April 20
 
-* Final class
+* Final Class
+* Iteration 2 due
 
 ### Week 16 — FINALS WEEK
 
