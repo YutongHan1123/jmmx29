@@ -75,7 +75,7 @@ All lectures will be uploaded to [this playlist](https://www.youtube.com/playlis
 
 ## Coursework
 
-### Participation: 20%
+### Participation: 25%
 
 Attendance is mandatory. An unexcused absence translates into a zero for that day’s participation; **the two lowest participation grades will be dropped before calculating the final grade.** Students will be expected to participate in discussion every class, and classes will build on one another — you are responsible for the material, even if you must miss class.
 
@@ -83,9 +83,9 @@ Attendance is mandatory. An unexcused absence translates into a zero for that da
 
 In earlier classes you've blogged about your experiences learning about and working on visualizations and visual storytelling. For this class, you should continue blogging. As I talked about it during the first class, these posts don't necessarily have to be long. They can be reflections on something you noticed in the news, or a reminder of how to do something with code so you don't have to Google it every couple of days. By the end of the semester, you should have at least 7 to 8 blog posts.
 
-### Story Teardown: 5%
+<!-- ### Story Teardown: 5%
 
-You will make a 15-minute presentation to the class on an example of data reporting they particularly admire. If possible you should try to interview the journalists who produced the work.
+You will make a 15-minute presentation to the class on an example of data reporting they particularly admire. If possible you should try to interview the journalists who produced the work. -->
 
 ### Weekly Exercises: 30%
 
@@ -127,14 +127,16 @@ I reserve the right to adjust the final grade according to class participation, 
 
 * Review HTML
 * CSS Primer
+* **Assigned**: [CSS Resume](assignments/2-css.md)
 
 ### Week 4 — February 03
 
-* Story Pitches
-* Setting up Github & Git
+* Review HTML/CSS
+* Set up Github, ESlint
 
 ### Week 5 — February 10
 
+* Story Pitches
 * JS Primer
 * D3 Charts 1
 

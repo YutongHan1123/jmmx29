@@ -9,4 +9,6 @@ The format of the presentation is up to you, but a strong pitch should try to an
 * How will you do it?
 * Why do it now?
 
-You'll present on February 3rd.
+Your presentation should be 4 minutes long and you're open to structure it however you like. If you do choose to pick up a previous project, you should bring in a PDF or printed version of the project so I can see what you've accomplished previously.
+
+You'll present on February 10th.
