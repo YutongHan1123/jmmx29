@@ -125,4 +125,6 @@ These are some of the extensions I use to make coding easier for myself.
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
-TODO add explanation of how to set up eslint and prettier to make code correct.
+## Setup ESlint globally
+
+Let's follow along with this together: [https://github.com/wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos)
