@@ -65,7 +65,8 @@ Once you've set up your username and email, you should follow the following tuto
 1. [Adding a new SSH key to your GitHub account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 1. [Testing your SSH connection](https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection)
 
-you should follow the followign tutorials to add SSH key
+you should follow the following tutorials to add SSH key
+
 ### iTerm2
 
 An alternative to the `Terminal.app` that offers some extra functionality.
@@ -85,16 +86,6 @@ You can download it from [here](https://code.visualstudio.com/download) or insta
 
 ```bash
 brew cask install visual-studio-code
-```
-
-### Sourcetree
-
-Using git from the command line can be scary at first. [Sourcetree](https://www.sourcetreeapp.com/) is a Git client &mdash; a GUI tool that lets you do everything you can do with git on the terminal but without touching the command line.
-
-You can download it from their page above or install via Homebrew:
-
-```bash
-brew cask install sourcetree
 ```
 
 ### Node and NPM
