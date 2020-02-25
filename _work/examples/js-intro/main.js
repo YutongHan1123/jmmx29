@@ -1,6 +1,7 @@
 /* eslint-disable prefer-const */
+/* eslint-disable no-var */
 /* eslint-disable no-console */
-let x;
+var x;
 let y;
 let z;
 
