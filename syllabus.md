@@ -137,21 +137,21 @@ I reserve the right to adjust the final grade according to class participation, 
 ### Week 5 — February 10
 
 * Story Pitches
-* JS Primer
+* CSS Grid
 
 ### Week 6 — February 17
 
-* D3 Charts 1
+* JS Primer
 
 ### Week 7 — February 24
 
-* D3 Charts 2
+* JS Primer 2
+* D3 Intro
 * Project Update
 
 ### Week 8 — March 02
 
-* D3 Charts 3
-* Scrollytelling
+* D3 Charts: Bar Chart
 
 ### Week 9 — March 09
 
@@ -160,15 +160,15 @@ I reserve the right to adjust the final grade according to class participation, 
 ### Week 10 — March 16
 
 * Iteration 0 due
-* Using Jekyll for a web project
+* D3 Charts: Line Chart
 
 ### Week 11 — March 23
 
-* TBD
+* Work Day
 
 ### Week 12 — March 30
 
-* Event: [Steve Franconeri](http://visualthinking.psych.northwestern.edu/) talk. 
+* Event: [Steve Franconeri](http://visualthinking.psych.northwestern.edu/) talk.
 
 ### Week 13 — April 06
 
@@ -176,7 +176,7 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 14 — April 13
 
-* TBD
+* Work Day
 
 ### Week 15 — April 20
 
@@ -185,4 +185,4 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Week 16 — FINALS WEEK
 
-* Group Review Session; Project due 24 hours
+* Group Review Session; Project due 24 hours after
